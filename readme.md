@@ -13,7 +13,7 @@ The backend, built with Node.js and Express, manages product data, user authenti
 # Key Features
 Product Listings: Displays various products with images, descriptions, ratings, and prices.
 Add to Bag & Remove from Bag: Users can add products to their shopping bag and remove them easily.
-Discounts & Offers: Displays original and discounted prices with percentage calculations
+Discounts & Offers: Displays original and discounted prices with percentage calculations.
 
 
 <img src="./myntra-project//public/images/Screenshot (1092).png" alt="Image" width="500"/>
