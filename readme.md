@@ -18,7 +18,7 @@ Discounts & Offers: Displays original and discounted prices with percentage calc
 <img src="./myntra-project//public/images/Screenshot (1092).png" alt="Image" width="500"/>
 
 
-# Technologies Used
+# Technologies Used :
 - Frontend: React.js, Redux, CSS
 - Backend: Node.js, Express
 - State Management: Redux Toolkit
