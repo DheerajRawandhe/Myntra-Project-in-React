@@ -1,5 +1,4 @@
-# Myntra Project – E-commerce Web App
-
+# Myntra Project – E-commerce Web App 
 I developed a Myntra Clone using React.js, Redux, Node.js, and Express to create a seamless e-commerce experience. This project replicates key features of Myntra, including product listings, add-to-cart functionality, and price calculations.
 
 <img src="./myntra-project//public/images/Screenshot (1091).png" alt="Image" width="500"/>
@@ -10,7 +9,7 @@ The frontend is built with React.js, making the user interface dynamic and inter
 ## Backend (Node.js & Express)
 The backend, built with Node.js and Express, manages product data, user authentication, and cart operations. I implemented RESTful APIs to fetch product details and handle cart interactions in real time.
 
-## Key Features
+## Key Features :
 Product Listings: Displays various products with images, descriptions, ratings, and prices.
 Add to Bag & Remove from Bag: Users can add products to their shopping bag and remove them easily.
 Discounts & Offers: Displays original and discounted prices with percentage calculations.
