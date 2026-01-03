@@ -3,7 +3,7 @@ I developed a Myntra Clone using React.js, Redux, Node.js, and Express to create
 
 <img src="./myntra-project//public/images/Screenshot (1091).png" alt="Image" width="500"/>
 
-## Frontend (React & Redux)
+## Frontend (React & Redux) :
 The frontend is built with React.js, making the user interface dynamic and interactive. Redux handles state management, ensuring a smooth shopping experience. Users can browse products, view discounts, and add or remove items from their cart efficiently.
 
 ## Backend (Node.js & Express)
